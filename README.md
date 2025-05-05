@@ -8,8 +8,8 @@ A compact 40% keyboard with 42 keys.
 Make example for this keyboard (after setting up your build environment):  
 `make kj_modify/rs40:default`
 
-Flashing example for this keyboard: 
-  make kj_modify/rs40:default:flash
+Flashing example for this keyboard:   
+`make kj_modify/rs40:default:flash`
 
 See the 
 * [build environment setup]
