@@ -5,7 +5,7 @@ A compact 40% keyboard with 42 keys.
 * Hardware Supported: RS40 PCB
 * Hardware Availability: [KJ-Modify Store on AlExpress](https://www.aliexpress.us/item/3256803963501165.html)
 
-Make example for this keyboard (after setting up your build environment):
+Make example for this keyboard (after setting up your build environment): 
 `make kj_modify/rs40:default`
 
 Flashing example for this keyboard: 
