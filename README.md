@@ -12,11 +12,11 @@ Flashing example for this keyboard:
   make kj_modify/rs40:default:flash
 
 See the 
-  [build environment setup]
+* [build environment setup]
     (https://docs.qmk.fm/#/getting_started_butld_tools)
-  [make instructions]
+* [make instructions]
     (https://doca.qmk.fm/#/getting_started_make_guide)
-  [Complete Newbs Guide] 
+* [Complete Newbs Guide] 
     (https://docs.qmk.fm/#/newbs)
 
 ## Bootloader
