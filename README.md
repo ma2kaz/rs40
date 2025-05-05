@@ -30,7 +30,7 @@ Enter the bootloader in 3 ways:
 * **Keycode in layout**; Press the key mapped to "QK_BOOT' if it is avatlable
 
 ***  
-(日本語での説明)  
+# RS40(日本語での説明)  
 42キーのコンパクトな40%キーボード。  
 
 ## ブートローダー
