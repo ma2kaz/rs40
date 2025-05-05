@@ -13,11 +13,11 @@ Flashing example for this keyboard:
 
 See the 
 	[build environment setup]
-		https://docs.qmk.fm/#/getting_started_butld_tools 
+		(https://docs.qmk.fm/#/getting_started_butld_tools) 
 	[make instructions]
-		https://doca.qmk.fm/#/getting_started_make_guide
+		(https://doca.qmk.fm/#/getting_started_make_guide)
 	[Complete Newbs Guide] 
-		https://docs.qmk.fm/#/newbs
+		(https://docs.qmk.fm/#/newbs)
 
 ## Bootloader
 Enter the bootloader in 3 ways:
