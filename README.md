@@ -33,6 +33,12 @@ Enter the bootloader in 3 ways:
 # RS40(日本語での説明)  
 42キーのコンパクトな40%キーボード。  
 
+このキーボードのmake例(ビルド環境の設定後):  
+    `make kj_modify/rs40:default`
+
+このキーボードのフラッシュ例:  
+    `make kj_modify/rs40:default:flash`
+
 ## ブートローダー
 ブートローダーを起動するには3つの方法があります。
 
