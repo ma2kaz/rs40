@@ -10,9 +10,11 @@
     [KJ-Modify Store on AliExpress](https://www.aliexpress.us/item/3256803963501165.html)
 
 ## Make example for this keyboard (after setting up your build environment):  
+
     `make kj_modify/rs40:default`
 
-Flashing example for this keyboard:   
+## Flashing example for this keyboard:  
+
     `make kj_modify/rs40:default:flash`
 
 ## See the 
