@@ -3,11 +3,11 @@
 ## A compact 40% keyboard with 42 keys.
 
 *** Keyboard Maintainer:
-    [Audite Marlow] (https://github.com/auditemarlow)
+    [Audite Marlow] (https://github.com/auditemarlow)  
 *** Hardware Supported:
-RS40 PCB
+    RS40 PCB
 *** Hardware Availability:
-  [KJ-Modify Store on AliExpress](https://www.aliexpress.us/item/3256803963501165.html)
+    [KJ-Modify Store on AliExpress](https://www.aliexpress.us/item/3256803963501165.html)
 
 ## Make example for this keyboard (after setting up your build environment):  
 * `make kj_modify/rs40:default`
