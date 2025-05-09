@@ -38,13 +38,13 @@
 Enter the bootloader in 3 ways:
 
 * **Bootmagic reset**:  
-* Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
+Hold down the key at (0,0) in the matrix (usually the top left key or Escape) and plug in the keyboard
 
 * **Physical reset button**:  
-* Briefly press the button on the back of the PCB - some may have pads you must short instead
+Briefly press the button on the back of the PCB - some may have pads you must short instead
 
 * **Keycode in layout**:
-* Press the key mapped to "QK_BOOT' if it is avatlable
+Press the key mapped to "QK_BOOT' if it is avatlable
 
 ***  
 # RS40(日本語での説明)  
@@ -64,11 +64,11 @@ Enter the bootloader in 3 ways:
 ブートローダーを起動するには3つの方法があります。
 
 * **ブートマジックリセット**:
-* マトリクスの(0,0)のキー（通常は左上のキーまたはEscキー）を押したままキーボードを接続します。
+マトリクスの(0,0)のキー（通常は左上のキーまたはEscキー）を押したままキーボードを接続します。
 
 * **物理リセットボタン**:
-* PCB背面のボタンを短く押します。PCBによってはパッドがあり、ショートさせる必要がある場合があります。
+PCB背面のボタンを短く押します。PCBによってはパッドがあり、ショートさせる必要がある場合があります。
 
 * **レイアウト内のキーコード**:
-* 「QK_BOOT」にマッピングされているキー（使用可能な場合）を押します。
+「QK_BOOT」にマッピングされているキー（使用可能な場合）を押します。
 
