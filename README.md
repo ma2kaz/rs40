@@ -22,15 +22,12 @@
 ## See the 
 
 * [build environment setup]  
-
     (https://docs.qmk.fm/#/getting_started_butld_tools)
 
 * [make instructions]  
-
     (https://doca.qmk.fm/#/getting_started_make_guide)
 
 * [Complete Newbs Guide]  
-
     (https://docs.qmk.fm/#/newbs)
 
 ## Bootloader
@@ -63,12 +60,12 @@ Press the key mapped to "QK_BOOT' if it is avatlable
 
 ブートローダーを起動するには3つの方法があります。
 
-* **ブートマジックリセット**:
-マトリクスの(0,0)のキー（通常は左上のキーまたはEscキー）を押したままキーボードを接続します。
+* **ブートマジックリセット**:  
+    マトリクスの(0,0)のキー（通常は左上のキーまたはEscキー）を押したままキーボードを接続します。
 
-* **物理リセットボタン**:
-PCB背面のボタンを短く押します。PCBによってはパッドがあり、ショートさせる必要がある場合があります。
+* **物理リセットボタン**:  
+    PCB背面のボタンを短く押します。PCBによってはパッドがあり、ショートさせる必要がある場合があります。
 
-* **レイアウト内のキーコード**:
-「QK_BOOT」にマッピングされているキー（使用可能な場合）を押します。
+* **レイアウト内のキーコード**:  
+    「QK_BOOT」にマッピングされているキー（使用可能な場合）を押します。
 
