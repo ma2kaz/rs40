@@ -73,3 +73,4 @@ Press the key mapped to "QK_BOOT' if it is avatlable
 
 ![Image](https://github.com/user-attachments/assets/dd3cf239-e66a-4f87-a596-be3cb8a006f7)
 ![Image](https://github.com/user-attachments/assets/25f1dd76-998d-45b2-83c3-1b04659ede25)
+![Image](https://github.com/user-attachments/assets/b0b00efb-352c-457e-810c-78e5f74ba477)
